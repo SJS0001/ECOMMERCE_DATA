@@ -64,14 +64,5 @@ Na základě analýzy byly vytvořeny následující vizualizace (viz `Ecommerce
   
 ![Top 10](GRAFY_PNG/top.png)
 
-
----
-
-## 🚀 Jak projekt použít
-1.  Nainstalujte potřebné knihovny: `pip install pandas pandas-gbq`
-2.  Spusťte čistící skript: `python clean.py`
-3.  Nahrajte výsledný dataset do Google BigQuery.
-4.  Pro hlubší analýzu spusťte přiložené SQL skripty.
-
 ---
 *Analýza vytvořena jako ukázka zpracování e-commerce dat v cloudovém prostředí.*
